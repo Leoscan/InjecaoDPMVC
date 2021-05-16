@@ -36,5 +36,11 @@ public class Main {
 	System.out.println(P1.GPersistencia(alunos));
 	System.out.println(P1.RPersistencia());
 	
+	System.out.println("##############################################################################");
+	PAluno = new PersistenciaMySQL();
+	P1 = new GeraPersistencia(PAluno);
+	System.out.println(P1.GPersistencia(alunos));
+	System.out.println(P1.RPersistencia());
+	
 	}
 }

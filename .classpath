@@ -6,9 +6,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDependencia/lib/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDependencia/lib/jdom.jar"/>
-	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDependencia/lib/opencsv-5.4.jar"/>
-	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDependencia/lib/xstream-1.4.15.jar"/>
+	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDCMVC/lib/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDCMVC/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDCMVC/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDCMVC/lib/opencsv-5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDCMVC/lib/xstream-1.4.15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
